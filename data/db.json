@@ -1,0 +1,34 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Front-End",
+      "details": "HTML&CSS Bootstrap Javascript NuxtJs",
+      "accept": true
+    },
+    {
+      "id": 2,
+      "title": "Back-End",
+      "details": "PHP Laravel MySql",
+      "accept": false
+    },
+    {
+      "id": 3,
+      "title": "Full-Stack",
+      "details": "Javascript PHP Nuxt jQuery",
+      "accept": false
+    },
+    {
+      "title": "MM110",
+      "details": "مصطفی عسگری",
+      "accept": true,
+      "id": 4
+    },
+    {
+      "title": "پروژه ناکست جی اس",
+      "details": "Nuxt3 - Vue3 API",
+      "accept": false,
+      "id": 5
+    }
+  ]
+}
