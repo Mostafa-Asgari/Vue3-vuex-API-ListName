@@ -2,10 +2,10 @@
 
 ## Project setup
 ```
-Jason-server is used in this project. * 
- ,First -> npm i npm , 
+* Jason-server is used in this project.* 
+ First  -> npm i npm , 
  Second -> npx json-server --watch data/db.json , 
-  Third -> npm run serve
+ Third  -> npm run serve
   
 npm install
 ```
