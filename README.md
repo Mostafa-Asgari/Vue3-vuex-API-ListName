@@ -1,7 +1,12 @@
-# 1402-vue-b
+# Vue3-vuex-API-ListName
 
 ## Project setup
 ```
+Jason-server is used in this project. * 
+ ,First -> npm i npm , 
+ Second -> npx json-server --watch data/db.json , 
+  Third -> npm run serve
+  
 npm install
 ```
 
